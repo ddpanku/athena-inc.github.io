@@ -1,6 +1,6 @@
 ## Welcome to ATHENA™ Inc.
 
-You can use the [Athena Site](http://aathena.ml) to preview the content for this website.
+You can use the [ATHENA's Site](http://aathena.ml) to preview the content for the website.
 
 ### About ATHENA
 
