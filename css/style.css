@@ -42,6 +42,16 @@ body {
 i {
     margin-left: 12px;
 }
+.section-primary {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.section-secondary {
+    background-color: #F4F4F4;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
 
 /* nav */
 nav {
@@ -120,16 +130,6 @@ nav {
     align-items: center;
 }
 
-.section-primary {
-    padding-top: 70px;
-    padding-bottom: 70px;
-}
-
-.section-secondary {
-    background-color: #F4F4F4;
-    padding-top: 70px;
-    padding-bottom: 70px;
-}
 
 /* Our Team */
 .member {
@@ -228,6 +228,7 @@ nav {
     transform: translateY(-100%);
 }
 
+/* Events */
 .card-footer {
     display: flex;
     justify-content: flex-end;
@@ -239,6 +240,8 @@ nav {
         justify-content: flex-start;
     }
 }
+
+/* Contact */
 
 footer {
     background-color: #ffffff !important;
@@ -269,15 +272,19 @@ footer .social .fa-linkedin-square:hover {
     color: #0074BB;
 }
 
-.animatable {
-    /* initially hide animatable objects */
-    visibility: hidden;
-    /* initially pause animatable objects their animations */
-    -webkit-animation-play-state: paused;
-    -moz-animation-play-state: paused;
-    -ms-animation-play-state: paused;
-    -o-animation-play-state: paused;
-    animation-play-state: paused;
+
+/* Animations */
+@media (min-width: 991px) {
+    .animatable {
+        /* initially hide animatable objects */
+        visibility: hidden;
+        /* initially pause animatable objects their animations */
+        -webkit-animation-play-state: paused;
+        -moz-animation-play-state: paused;
+        -ms-animation-play-state: paused;
+        -o-animation-play-state: paused;
+        animation-play-state: paused;
+    }
 }
 
 .animated-1 {
@@ -290,13 +297,6 @@ footer .social .fa-linkedin-square:hover {
 .animated-2 {
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
-    -webkit-animation-fill-mode: both;
-    animation-fill-mode: both;
-}
-
-.animated-3 {
-    -webkit-animation-duration: 2s;
-    animation-duration: 2s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
 }
