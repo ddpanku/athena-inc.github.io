@@ -125,9 +125,30 @@ nav {
 }
 
 #home {
-    height: 100vh;
+    padding-top: 100px;
+}
+
+#athena-intro {
     display: flex;
     align-items: center;
+    justify-content: center
+}
+
+#athena-image {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    #home {
+        padding-top: 0px;
+    }
+    #athena-intro {
+        height: 100vh;
+    }
+    #athena-image {
+        display: none
+    }
 }
 
 
@@ -262,14 +283,17 @@ footer .social .fa {
 
 footer .social .fa-facebook-official:hover {
     color: #4060B8;
+    transition: .2s
 }
 
 footer .social .fa-instagram:hover {
     color: #A411A6;
+    transition: .2s
 }
 
 footer .social .fa-linkedin-square:hover {
     color: #0074BB;
+    transition: .2s
 }
 
 
