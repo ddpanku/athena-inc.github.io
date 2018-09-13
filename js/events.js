@@ -1,7 +1,7 @@
 (function ($) {
     'use restrict'
 
-    var isRegdOpen = false;
+    var isRegdOpen = true;
     var eventDate = "24"; // Date
     var eventMonth = "Sep"; // Month
     var eventYear = "2018"; //Year
