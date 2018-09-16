@@ -100,6 +100,13 @@ nav {
     margin-bottom: 24px
 }
 
+.tag-line {
+    max-width: 600px;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+    line-height: 36px
+}
+
 .paragraph {
     letter-spacing: .05rem
 }
@@ -296,6 +303,13 @@ footer .social .fa-linkedin-square:hover {
 }
 
 .animated-2 {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+.animated-3 {
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
     -webkit-animation-fill-mode: both;
