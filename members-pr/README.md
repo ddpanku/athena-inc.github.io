@@ -48,6 +48,7 @@ This repository is for anyone to create pull requests, with their name, code sam
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
   [![dribble-alt][dribble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
+  [![linkedin-alt][linkedin-img]](https://linkedin.com/in/example)
 
 ## How to Contribute
 
