@@ -2,11 +2,19 @@
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/github/license/athena-inc/athena-inc.github.io.svg)
+![GitHub forks](https://img.shields.io/github/forks/athena-inc/athena-inc.github.io.svg)
+![GitHub issues](https://img.shields.io/github/issues/athena-inc/athena-inc.github.io.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/athena-inc/athena-inc.github.io.svg) 
+![GitHub contributors](https://img.shields.io/github/contributors/athena-inc/athena-inc.github.io.svg) 
+![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/w/athena-inc/athena-inc.github.io.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/athena-inc/athena-inc.github.io.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/athena-inc/athena-inc.github.io.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/athena-inc/athena-inc.github.io.svg)
 
 This repository is for anyone to create pull requests, with their name, code samples, etc. Any PRs outside of Athena Campus Club will still be considered towards your contributions.
 
-![Members first PR: Hacktoberfest](https://athena-inc.github.io/members-pr/imgs/athena.svg)
+![Members first PR: ATHENA™ Inc](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
 # Getting Started
 
