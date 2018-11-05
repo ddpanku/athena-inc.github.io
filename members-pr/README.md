@@ -1,3 +1,4 @@
+<!-- Please don't remove these below codes -->
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)
 ![First Timers Only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
 ![Up For Grabs](https://img.shields.io/badge/up--for--grabs-friendly-green.svg?style=flat)
@@ -11,8 +12,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/athena-inc/athena-inc.github.io.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/athena-inc/athena-inc.github.io.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/athena-inc/athena-inc.github.io.svg)
+<!-- Please don't remove these above codes -->
 
 This repository is for anyone to create pull requests, with their name, code samples, etc. Any PRs outside of Athena Campus Club will still be considered towards your contributions.
+Site is live ![Members PR](https://teamathena.ml/members-pr)
 
 ![Members first PR: ATHENA™ Inc](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
@@ -22,13 +25,13 @@ This repository is for anyone to create pull requests, with their name, code sam
 <!-- Please don't remove this -->
  <!-- icons -->
  [twitter-img]: https://athena-inc.github.io/members-pr/icons/twitter-brands.svg
-[facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
-[google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
-[tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
-[dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
-[github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
-[linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
- <!-- Please don't remove this -->
+ [facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
+ [google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
+ [tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
+ [dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
+ [github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
+ [linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
+<!-- Please don't remove this -->
 
 
 - I'm an example that you can copy, if you want :)
@@ -41,6 +44,8 @@ This repository is for anyone to create pull requests, with their name, code sam
   [![dribble-alt][dribble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
   [![linkedin-alt][linkedin-img]](https://linkedin.com/in/example)
+  
+<!-- Please don't remove this -->
 
 ## How to Contribute
 
@@ -51,6 +56,8 @@ Please read our [contributing](CONTRIBUTING.md) guidelines before making your pu
 Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Contributors List
+
+<!-- Start your contribution from here -->
 
 # A
 
@@ -76,7 +83,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Reactjs.
   - Python.
   - WAPT.
-- [![github-alt][github-img]](https://github.com/pankajkumarkbn) [![twitter-alt][twitter-img]](https://twitter.com/ddpanku) [![facebook-alt][facebook-img]](https://facebook.com/ddpanku)
+- [![github-alt][github-img]](https://github.com/pankajkumarkbn) [![twitter-alt][twitter-img]](https://twitter.com/ddpanku) [![facebook-alt][facebook-img]](https://facebook.com/ddpanku) [![linkedin-alt][linkedin-img]](https://linkedin.com/in/pankajkumarkbn)
 
 # S
 
