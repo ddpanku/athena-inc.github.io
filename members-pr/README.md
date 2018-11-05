@@ -16,21 +16,21 @@ This repository is for anyone to create pull requests, with their name, code sam
 
 ![Members first PR: ATHENA™ Inc](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
+# Getting Started
+
+#### Example Profile 
 <!-- Please don't remove this -->
  <!-- icons -->
  [twitter-img]: https://athena-inc.github.io/members-pr/icons/twitter-brands.svg
- [facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
- [google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
- [tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
- [dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
- [github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
- [linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
-<!-- Please don't remove this -->
-
-# Getting Started
+[facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
+[google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
+[tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
+[dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
+[github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
+[linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
+ <!-- Please don't remove this -->
 
 
-#### Example Profile 
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
@@ -76,7 +76,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   - Reactjs.
   - Python.
   - WAPT.
-- [![github-alt][github-img]](https://github.com/pankajkumarkbn) [![twitter-alt][twitter-img]](https://twitter.com/ddpanku) [![facebook-alt][facebook-img]](https://facebook.com/ddpanku) [![linkedin-alt][linkedin-img]](https://linkedin.com/in/pankajkumarkbn)
+- [![github-alt][github-img]](https://github.com/pankajkumarkbn) [![twitter-alt][twitter-img]](https://twitter.com/ddpanku) [![facebook-alt][facebook-img]](https://facebook.com/ddpanku)
 
 # S
 
