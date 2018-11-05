@@ -30,7 +30,6 @@ This repository is for anyone to create pull requests, with their name, code sam
  <!-- Please don't remove this -->
 
 #### Example Profile 
-[![twitter-alt][twitter-img]](https://twitter.com/example)
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
