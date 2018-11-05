@@ -16,8 +16,6 @@ This repository is for anyone to create pull requests, with their name, code sam
 
 ![Members first PR: ATHENA™ Inc](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
-# Getting Started
-
 <!-- Please don't remove this -->
  <!-- icons -->
  [twitter-img]: https://athena-inc.github.io/members-pr/icons/twitter-brands.svg
@@ -28,6 +26,9 @@ This repository is for anyone to create pull requests, with their name, code sam
 [github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
 [linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
  <!-- Please don't remove this -->
+
+# Getting Started
+
 
 #### Example Profile 
 - I'm an example that you can copy, if you want :)
