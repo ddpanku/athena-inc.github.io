@@ -18,6 +18,17 @@ This repository is for anyone to create pull requests, with their name, code sam
 
 # Getting Started
 
+<!-- Please don't remove this -->
+ <!-- icons -->
+ [twitter-img]: https://athena-inc.github.io/members-pr/icons/twitter-brands.svg
+[facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
+[google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
+[tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
+[dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
+[github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
+[linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
+ <!-- Please don't remove this -->
+
 #### Example Profile 
 [![twitter-alt][twitter-img]](https://twitter.com/example)
 - I'm an example that you can copy, if you want :)
