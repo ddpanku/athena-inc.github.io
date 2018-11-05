@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Members PR
+description: Helping beginners make their first contribution. Members PR.
+logo: https://teamathena.ml/images/top-bar-icon.png
+show_downloads: false
+exclude: ["code/"]
