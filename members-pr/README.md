@@ -6,7 +6,7 @@
 
 This repository is for anyone to create pull requests, with their name, code samples, etc. Any PRs outside of Athena Campus Club will still be considered towards your contributions.
 
-![Members first PR: Hacktoberfest]( https://athena-inc.github.io/images/athena.svg)
+![Members first PR: Hacktoberfest](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
 # Getting Started
 
