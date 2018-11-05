@@ -20,6 +20,23 @@ This repository is for anyone to create pull requests, with their name, code sam
 
 ### Example Profile
 
+<!-- Please don't remove this -->
+
+<!-- icons -->
+
+[twitter-img]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[facebook-img]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[google-img]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[tumblr-img]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[dribble-img]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[github-img]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- Please don't remove this -->
+
+
+#### Icons with padding to use in a sentence [![twitter-alt][twitter-img]](https://twitter.com/example)
+
+
 - I'm an example that you can copy, if you want :)
 - I work for...
 - My hobbies include...
@@ -27,9 +44,8 @@ This repository is for anyone to create pull requests, with their name, code sam
   [![facebook-alt][facebook-img]](https://facebook.com/example)
   [![google-img][google-img]](https://plus.google.com/+Example)
   [![tumblr-alt][tumblr-img]](https://example.tumblr.com)
-  [![dribbble-alt][dribbble-img]](https://dribbble.com/example)
+  [![dribble-alt][dribble-img]](https://dribbble.com/example)
   [![github-alt][github-img]](https://github.com/example)
-  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/example)
 
 ## How to Contribute
 
