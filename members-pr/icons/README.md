@@ -1,0 +1,1 @@
+![Font Awesome Free License](https://fontawesome.com/license/free)
