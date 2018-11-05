@@ -24,12 +24,14 @@ This repository is for anyone to create pull requests, with their name, code sam
 
 <!-- icons -->
 
-[twitter-img]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[facebook-img]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[google-img]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[tumblr-img]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[dribble-img]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[github-img]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[twitter-img]: https://athena-inc.github.io/members-pr/icons/twitter-brands.svg
+[facebook-img]: https://athena-inc.github.io/members-pr/icons/facebook-f-brands.svg
+[google-img]: https://athena-inc.github.io/members-pr/icons/google-plus-g-brands.svg
+[tumblr-img]: https://athena-inc.github.io/members-pr/icons/tumblr-brands.svg
+[dribble-img]: https://athena-inc.github.io/members-pr/icons/dribbble-brands.svg
+[github-img]: https://athena-inc.github.io/members-pr/icons/github-brands.svg
+[linkedin-img]: https://athena-inc.github.io/members-pr/icons/linkedin-in-brands.svg
+
 
 <!-- Please don't remove this -->
 
