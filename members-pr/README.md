@@ -22,6 +22,8 @@
 This repository is for anyone to create pull requests, with their name, code samples, etc. Any PRs outside of Athena Campus Club will still be considered towards your contributions.
 Site is live [Members PR](https://teamathena.ml/members-pr)
 
+Contribute to this project [Click Here](https://github.com/athena-inc/athena-inc.github.io/tree/master/members-pr)
+
 ![Members first PR: ATHENA™ Inc](https://athena-inc.github.io/members-pr/imgs/athena.svg)
 
 # Getting Started
