@@ -75,7 +75,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - I am currently work on:
   - Android
   - Web
-- [![github-alt][github-img]](https://github.com/ddpanku1)
+- [![github-alt][github-img]](https://github.com/ddpanku)
 
 # P
 
