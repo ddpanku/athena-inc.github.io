@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Members PR
 description: Helping beginners make their first contribution. Members PR.
 logo: https://athena-inc.github.io/members-pr/imgs/logo.png
-show_downloads: false
+show_downloads: true
